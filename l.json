@@ -90,7 +90,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
-			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 		},
 		{
 			"key": "易搜",
@@ -101,7 +101,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
-			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 		},
 		{
 			"key": "盤搜",
@@ -112,7 +112,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
-			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 		},
 		{
 			"key": "UP雲搜",
@@ -123,7 +123,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
-			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 		},
 		{
 			"key": "找資源",
@@ -134,7 +134,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234",
-			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 		},
 		{
 			"key": "泥巴",
@@ -144,7 +144,7 @@
 			"searchable": 1,
 			"filterable": 1,
 			"changeable": 1,
-			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 		},
 		{
 			"key": "push_agent",
@@ -155,7 +155,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
-			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 		}
 	],
 	"lives": [{
